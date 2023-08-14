@@ -14,9 +14,10 @@
   - [CONTRIBUTION](#contribution)
 
   ## Installation
-  Please Run the following commands to install node_modules and Inquirer. 
+  Please Run the following commands to install node_modules and Inquirer and jest packages. 
   1. npm install 
   2. npm inquirer
+  3. npm i jest
 
   ## Usage
     Please check the following video that walks you through how to use the app.
